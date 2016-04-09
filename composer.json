@@ -3,7 +3,7 @@
     "description": "Yii2 HelloWorld Extension",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
-    "license": "GPL-2.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "Ranva Rahul",
@@ -13,7 +13,6 @@
     "require": {
         "ram1/yii2-1": "*"
     },
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "\\yiiexten\\": ""
