@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*"
+        "ram1/yii2-1": "*"
     },
     "autoload": {
         "psr-4": {
