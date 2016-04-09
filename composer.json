@@ -10,6 +10,8 @@
             "email": "rahul.r@innovify.in"
         }
     ],
+    "minimum-stability": "dev",
+    "prefer-stable" : true,
     "require": {
         "ram1/yii2-1": "*"
     },
